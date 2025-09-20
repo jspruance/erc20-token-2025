@@ -134,7 +134,6 @@ Once you’re comfortable on Sepolia, you can deploy to **Ethereum mainnet** (or
 
 ### 1) Fund your deployer wallet
 
-* Use a **fresh wallet** (not your personal one).
 * Ensure enough ETH for gas.
 
 ### 2) Update `.env`
