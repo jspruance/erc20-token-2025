@@ -176,9 +176,3 @@ npx hardhat verify --network mainnet <DEPLOYED_ADDRESS> 100000000000000000000000
 * Everything on mainnet is permanent and public.
 
 ```
-
-If GitHub still renders oddly, make sure:
-- Every code block closes with **exactly three backticks** (no extra ticks/spaces).
-- You pasted in **Raw** mode (GitHub’s editor → “Raw” button can help avoid hidden characters).
-::contentReference[oaicite:0]{index=0}
-```
