@@ -1,4 +1,4 @@
-# Create Your Own ERC-20 (2025)
+# Create Your Own ERC-20 Token (2025) [Block Explorer - YouTube tutorial]
 
 Simple ERC-20 (fixed supply + Permit) using Hardhat + TypeScript.
 
@@ -18,7 +18,7 @@ npm -v
 ## 2) Clone the starter repo
 
 ```bash
-git clone <YOUR_REPO_URL> erc20-token
+git clone https://github.com/jspruance/erc20-token-2025.git
 cd erc20-token
 ```
 
