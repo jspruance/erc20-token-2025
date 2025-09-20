@@ -1,7 +1,3 @@
-Gotcha — GitHub is swallowing parts of the README because one of the code fences isn’t closing cleanly. Easiest fix: replace the whole file with this **minimal, fence-safe** Markdown (no horizontal rules, clean spacing, only triple backticks).
-
-Copy everything between the lines and paste into `README.md`:
-
 ````markdown
 # Create Your Own ERC-20 (2025)
 
