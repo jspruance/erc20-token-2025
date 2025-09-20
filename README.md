@@ -18,7 +18,7 @@ npm -v
 ## 2) Clone the starter repo
 
 ```bash
-git clone <YOUR_REPO_URL> erc20-token
+git clone https://github.com/jspruance/erc20-token-2025.git
 cd erc20-token
 ```
 
