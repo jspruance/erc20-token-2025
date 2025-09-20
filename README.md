@@ -1,4 +1,3 @@
-````markdown
 # Create Your Own ERC-20 (2025)
 
 Simple ERC-20 (fixed supply + Permit) using Hardhat + TypeScript.
