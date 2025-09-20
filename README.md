@@ -67,6 +67,8 @@ Copy these into your Hardhat project:
 * `scripts/deploy.ts`
 * `hardhat.config.ts` (replace your generated one)
 
+Replace 'MyToken' and 'MTK' with your token name and ticker symbol.
+
 ## 8) Run tests
 
 ```bash
@@ -174,5 +176,3 @@ npx hardhat verify --network mainnet <DEPLOYED_ADDRESS> 100000000000000000000000
 * Gas can spike—deploy during low-fee windows.
 * Consider a **security review** if this token will hold value.
 * Everything on mainnet is permanent and public.
-
-```
